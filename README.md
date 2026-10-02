@@ -1,9 +1,16 @@
-# 🌌 Gauthami's GitHub Profile README
-
 <!-- Animated header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=200&section=header&text=Gauthami%20Yogish%20Kulal&fontSize=35&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Animated profile header" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:7C3AED&height=230&section=header&text=GAUTHAMI%20YOGISH%20KULAL&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Learn%20%7C%20Grow&descAlignY=58&descSize=18"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Gauthami+%F0%9F%91%8B;MCA+Student+%7C+Developer+%7C+Tech+Explorer+%F0%9F%92%BB;Turning+curiosity+into+code+%E2%9C%A8;Learning%2C+building+%26+growing+one+project+at+a+time+%F0%9F%9A%80"
+  />
 </p>
 
 <!-- Animated typing introduction -->
