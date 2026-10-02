@@ -13,12 +13,6 @@
   />
 </p>
 
-<!-- Animated typing introduction -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Aspiring+Developer;Python+%7C+Machine+Learning;Web+Development+%7C+REST+APIs;Learning%2C+Building%2C+Growing" alt="Animated introduction" />
-</p>
-
 <p align="center">
   <a href="https://github.com/Gauthami04">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
